@@ -2,19 +2,19 @@
 
 共享Chatgpt免费账号、chatgpt plus账号共享 、 chatgpt账号共享、openai账号共享，已收录近100个可用号，持续更新中
 
-定时更新免费账号到此
+定时更新免费账号到此 
 
-以下是可以直登的  账号 密码 apiKey 
-
-
-vgf22870@uzxia.com	Hn41U8DVy2OJIWOV	sk符号UdGpHw3IDfwOe09oVJlaT3BlbkFJrVr5A9MKVASZDkEunXaY
-
-ekr92085@uzxia.com	L2TfsG4k7ZGP8RO0	sk符号U1dacZMLIJBHwlAo4JoeT3BlbkFJ9jeRFjr3982CSYumEdwA
-
-suf04586@uzxia.com	6lRupglC8ZlIaSld	sk符号Yhf3HnJRKRiLwfRdiIYCT3BlbkFJym45v2q1dpnCUYXIM3Ww
+以下是可以直登的  账号 密码 apiKey(用完) 
 
 
-分享一些可用的apiKey, 测试微软登陆不成功，但是apiKeys是满额度 5美元的
+vgf22870@uzxia.com	Hn41U8DVy2OJIWOV	sk符号UdGpHw3IDfwOe09oVJlaT3BlbkFJrVr5A9MKVASZDkEunXaY  账号可登，apiKey(用完) 
+
+ekr92085@uzxia.com	L2TfsG4k7ZGP8RO0	sk符号U1dacZMLIJBHwlAo4JoeT3BlbkFJ9jeRFjr3982CSYumEdwA 账号可登，apiKey(用完) 
+
+suf04586@uzxia.com	6lRupglC8ZlIaSld	sk符号Yhf3HnJRKRiLwfRdiIYCT3BlbkFJym45v2q1dpnCUYXIM3Ww 账号可登，apiKey(用完) 
+
+ 
+分享一些可用的apiKey, 测试微软登陆不成功，但是apiKeys是满额度 5美元的  apiKey 可用
 
   
 gpt邮箱：y03k7ppro@ssttbb.cc   辅助邮箱：7fpmmyig2@outlook.com  密码：94ztc9b2w：,sk符号aYyVe7Jl87ZXP0Zbn81T3BlbkFJaOErDxQBv9MjTrTXINdi    
