@@ -4,6 +4,9 @@
 
 定时更新免费账号到此 
 
+【腾讯文档】ChatGPT共享账号
+https://docs.qq.com/sheet/DZWJQQk10a2xySGlh?tab=BB08J2
+
 以下是可以直登的  账号 密码 apiKey(用完) 
 
 
