@@ -7,6 +7,10 @@
 【腾讯文档】ChatGPT共享账号
 https://docs.qq.com/sheet/DZWJQQk10a2xySGlh?tab=BB08J2
 
+测试结果
+![image](https://user-images.githubusercontent.com/26681789/236611360-617c8891-1007-45df-889e-1a19dbedcc22.png)
+
+
 以下是可以直登的  账号 密码 apiKey(用完) 
 
 
