@@ -1,4 +1,4 @@
-# ChatgptFreeaAccount 
+# ChatgptFreeAccount
 
 Chatgpt免费账号共享、Chatgpt账号共享、chatgpt plus账号共享、openai账号共享
 
