@@ -4,11 +4,9 @@
 
 定时更新免费账号到此 
 
-【腾讯文档】ChatGPT共享账号
+【腾讯文档】ChatGPT共享账号 
 https://docs.qq.com/sheet/DZWJQQk10a2xySGlh?tab=BB08J2
-
-测试结果
-![image](https://user-images.githubusercontent.com/26681789/236611360-617c8891-1007-45df-889e-1a19dbedcc22.png)
+（使用之前请按最下方的地址测试apiKey可用）
 
 
 以下是可以直登的  账号 密码 apiKey(用完) 
@@ -21,7 +19,7 @@ ekr92085@uzxia.com	L2TfsG4k7ZGP8RO0 sk需要点开文档查看，直接放出来
 suf04586@uzxia.com	6lRupglC8ZlIaSld	 sk需要点开文档查看，直接放出来会秒封 账号可登，apiKey(用完) 
 
  
-分享一些可用的apiKey, 测试微软登陆不成功，但是apiKeys是满额度 5美元的  apiKey 可用
+分享一些可用的apiKey, 测试微软登陆不成功，但是apiKeys是满额度 5美元的  apiKey 可用 
 
   
 gpt邮箱：y03k7ppro@ssttbb.cc   辅助邮箱：7fpmmyig2@outlook.com  密码：94ztc9b2w：, sk需要点开文档查看，直接放出来会秒封
@@ -54,6 +52,9 @@ shobujhbibats@outlook.com O2zvhpQk
 belsasejeloe@outlook.com PoYT6KHt
 tbokolbilu@outlook.com 08lJ0pky
 
+测试 apiKey 可用的在线地址 https://qiniuchat.1chat.cc/other/check/%E6%9F%A5API%E6%9C%89%E6%95%88%E6%9C%9F%E4%BD%99%E9%A2%9D%28%E6%96%B0%E7%89%88%29.html
+测试结果
+![image](https://user-images.githubusercontent.com/26681789/236611360-617c8891-1007-45df-889e-1a19dbedcc22.png)
 
 分享一个免费可以的国内网站 https://1chat.cc
 独立账号购买 fk.a3r.cn
