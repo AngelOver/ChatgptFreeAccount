@@ -1,4 +1,4 @@
-# ChatgptFreeAccount
+# ChatgptFreeAccount #最新地址可加v:   xiaobai123
 
 共享Chatgpt免费账号、chatgpt plus账号共享 、 chatgpt账号共享、openai账号共享，已收录近100个可用号，持续更新中
 
@@ -56,5 +56,5 @@ tbokolbilu@outlook.com 08lJ0pky
 测试结果
 ![image](https://user-images.githubusercontent.com/26681789/236611360-617c8891-1007-45df-889e-1a19dbedcc22.png)
 
-分享一个免费可以的国内网站 https://1chat.cc
-独立账号购买 fk.a3r.cn
+分享一个免费可以的国内网站 https://1.1ai.fun
+独立账号购买 fk.a3e.top
