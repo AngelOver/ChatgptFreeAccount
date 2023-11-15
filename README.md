@@ -1,4 +1,4 @@
-# ChatgptFreeAccount #最新地址可加v:   xiaobai123
+# ChatgptFreeAccount #最新地址可加v:   onebai123
 
 共享Chatgpt免费账号、chatgpt plus账号共享 、 chatgpt账号共享、openai账号共享，已收录近100个可用号，持续更新中
 
